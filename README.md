@@ -1,4 +1,4 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fslidesdocs.com%2Fbackground%2Fabstract-neon-and-glowing-vertical-lines-in-digital-3d-illustration-powerpoint-background_08cd5988a3&psig=AOvVaw3t4gLfv0bi2J1A0q83VZYn&ust=1704623613291000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCICEhoTIyIMDFQAAAAAdAAAAABAS" width=100% height=20%>
+<img src="https://image.slidesdocs.com/responsive-images/background/abstract-neon-and-glowing-vertical-lines-in-digital-3d-illustration-powerpoint-background_08cd5988a3__960_540.jpg" width=100% height=20%>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cooper+Black&size=20&duration=5007&pause=1000&color=08A045&random=false&center=true&width=435&lines=Hi+there,+I+am+Devindi+Peiris ;Undergraduate+at+University+of+Moratuwa;Front-end+Developer;+Active+Learner;+Tech+enthusiast" alt="Typing SVG" /></a>
 </p>
