@@ -1,3 +1,4 @@
+<img src="https://i0.wp.com/backgroundabstract.com/wp-content/uploads/edd/2022/04/3430013-e1655988197552.jpg?resize=1000%2C750&ssl=1" width="100%" height="20%">
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cooper+Black&size=20&duration=5007&pause=1000&color=08A045&random=false&center=true&width=435&lines=Hi+there,+I+am+Devindi+Peiris ;Undergraduate+at+University+of+Moratuwa;Front-end+Developer;+Active+Learner;+Tech+enthusiast" alt="Typing SVG" /></a>
 </p>
