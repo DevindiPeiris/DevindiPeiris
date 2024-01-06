@@ -1,6 +1,7 @@
 ### Hi there, I am Devindi...👋
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+there....;I+am+Devindi+Peiris ;Undergraduate+of+University+at+Moratuwa;Front-end+Developer;Active+Learner,;Tech+enthusiast"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cooper+Black&duration=5007&pause=1000&color=08A045&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 </p>
 
 <!--
