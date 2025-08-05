@@ -26,10 +26,9 @@ I enjoy building practical projects that solve real problems, and I'm always loo
 
 
 ## 📫 Connect with Me
-[![LinkedIn](https://www.linkedin.com/in/devindi-peiris-2698b4271?original_referer=)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasadinipeiris21@gmail.com)
-[![Portfolio](https://devindipeiris.github.io/devindi_peiris)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devindi-peiris-2698b4271?original_referer=)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://devindipeiris.github.io/devindi_peiris)
 ---
 
 
