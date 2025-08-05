@@ -19,8 +19,7 @@ I enjoy building practical projects that solve real problems, and I'm always loo
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-## 🌱 Currently Learning
-- 
+## 🌱 Currently Learning 
 - Microservices and distributed systems
 - Clean architecture and best practices
 
@@ -31,7 +30,7 @@ I enjoy building practical projects that solve real problems, and I'm always loo
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://devindipeiris.github.io/devindi_peiris)
 ---
 
-
+⭐ *Thanks for visiting my GitHub profile! I'm excited to keep learning and building.*  
   
 
 
